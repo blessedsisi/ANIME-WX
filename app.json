@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/post/post",
+    "pages/logs/logs",
+    "pages/post/post-detail/post-detail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "dengdeng.WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

@@ -1,0 +1,26 @@
+.post-author-date{
+  height: 100rpx;
+}
+.post-author-date image{
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10rpx 0 10rpx 20rpx;
+}
+.post-author-date text{
+  font-size: 25rpx;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 50rpx;
+  font-weight:bold;
+}
+.post-auto-content image{
+  width:100%;
+}
+.post-auto-content text{
+  font-size: 25rpx;
+  padding-left:25rpx;
+}

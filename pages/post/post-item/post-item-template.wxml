@@ -1,0 +1,10 @@
+<template name="post-item">
+  <view class='post-author-date'>
+      <image wx:if="{{item.authorFlag}}" src="{{item.author_img}}"></image>
+      <text>{{item.date}}</text>
+    </view>
+    <view class='post-auto-content'>
+      <image src="{{item.content_img}}"></image>
+      <text>{{item.title}}</text>
+    </view>
+</template>

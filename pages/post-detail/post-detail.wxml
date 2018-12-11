@@ -1,0 +1,18 @@
+<view class="container-detail">
+  <image class='head-image' src='../../../assets/images/1.jpg'></image>
+  <view class='author-date'>
+    <image class='author-img' src='../../../assets/images/1.jpg'></image>
+    <text class='author'>胡歌</text>
+    <text class='const-text'>发表于</text>
+    <text class='date'>三天前</text>
+  </view>
+  <text class='title'>炉石传说好玩不</text>
+  <view class='tool'>
+    <view class='circle-img'>
+      <image src='../../../assets/images/favorite.png'></image>
+      <image class='share-img' src='../../../assets/images/share.png'></image>
+    </view>
+    <view class='horizon'></view>
+  </view>
+  <text class='detail'>炉石传说很好玩的</text>
+</view>
